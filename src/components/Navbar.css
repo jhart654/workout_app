@@ -1,0 +1,23 @@
+nav {
+    background-color: darkgray;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 2%
+}
+
+#header {
+    padding-left: 10px;
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.navItems {
+    padding-right: 10px;
+    color: darkred
+}
+
+.navItems:hover {
+    color: white
+}

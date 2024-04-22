@@ -1,0 +1,27 @@
+#background {
+    background-size: cover;
+    
+}
+
+#datagrid {
+    background-color: white;
+    opacity: 83%;
+    width: 1000px;
+    height: 400px;
+}
+
+
+
+#modal {
+    position: fixed;
+    top: 2;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 180px ;
+    
+    
+}

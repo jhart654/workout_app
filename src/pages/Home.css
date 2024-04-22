@@ -1,0 +1,9 @@
+#background {
+    background-size: cover;
+}
+
+#homeinfo {
+    font-size: 80px;
+    color: red;
+    font-weight: 800;
+}

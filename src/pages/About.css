@@ -1,0 +1,10 @@
+#background {
+    background-size: cover;
+}
+
+#description {
+    background-color: white;
+    opacity: 55%;
+    font-weight: 600;
+    font-size: 30px;
+}
